@@ -1,0 +1,30 @@
+# Every six hours (and on demand): refresh stars and downloads in the signed
+# index the app reads.
+name: Refresh the index
+on:
+  schedule:
+    - cron: '17 */6 * * *'
+  workflow_dispatch:
+  push:
+    paths: ['entries/**']
+permissions:
+  contents: write
+concurrency: index
+jobs:
+  index:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - name: Rebuild and sign the index
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+          INDEX_SIGNING_KEY: ${{ secrets.INDEX_SIGNING_KEY }}
+        run: bash tools/sign_index.sh
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add index.json index.json.minisig
+          git diff --cached --quiet || git commit -m "Refresh stars and downloads"
+          git push

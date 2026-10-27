@@ -1,0 +1,34 @@
+# A maintainer labels a submission "approved": check its code, attach it to a
+# release (so downloads are counted), list it, and rebuild the signed index.
+name: List an approved submission
+on:
+  issues:
+    types: [labeled]
+permissions:
+  contents: write
+  issues: write
+concurrency: index
+jobs:
+  add:
+    if: github.event.label.name == 'approved'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - name: List it
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+        run: python tools/add_entry.py ${{ github.event.issue.number }}
+      - name: Rebuild and sign the index
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+          INDEX_SIGNING_KEY: ${{ secrets.INDEX_SIGNING_KEY }}
+        run: bash tools/sign_index.sh
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add entries index.json index.json.minisig
+          git diff --cached --quiet || git commit -m "List #${{ github.event.issue.number }}"
+          git push
