@@ -45,7 +45,8 @@ def main():
     index = {'version': 1, 'repo': REPO,
              'generated': datetime.datetime.now(datetime.timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ'),
              'entries': out}
-    path.write_text(json.dumps(index, indent=1, sort_keys=True, ensure_ascii=False) + '\n', encoding='utf-8')
+    # Exactly these bytes are signed and published: LF on every system.
+    path.write_bytes((json.dumps(index, indent=1, sort_keys=True, ensure_ascii=False) + '\n').encode('utf-8'))
     print('changed')
 
 

@@ -70,7 +70,7 @@ def add(n, issue=None):
         'code': code,
         **codes.summary(kind, data),
     }
-    (ROOT / 'entries' / f'{n}.json').write_text(json.dumps(entry, indent=1, sort_keys=True) + '\n', encoding='utf-8')
+    (ROOT / 'entries' / f'{n}.json').write_bytes((json.dumps(entry, indent=1, sort_keys=True) + '\n').encode('utf-8'))
     return entry
 
 
