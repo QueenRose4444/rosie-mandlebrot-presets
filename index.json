@@ -177,7 +177,7 @@
    "depth": 1e-32,
    "description": "The centre of a period-1344 minibrot in Seahorse Valley, reached through seahorse spirals.",
    "download": "https://github.com/QueenRose4444/rosie-mandlebrot-presets/releases/download/entries/8.rmp",
-   "downloads": 0,
+   "downloads": 3,
    "id": 8,
    "interest": null,
    "julia": false,
@@ -943,7 +943,7 @@
    "created": "2026-10-27T00:41:55Z",
    "description": "Neon that slides along as the video plays, there and back, so there is never a seam.",
    "download": "https://github.com/QueenRose4444/rosie-mandlebrot-presets/releases/download/entries/40.rmc",
-   "downloads": 0,
+   "downloads": 4,
    "id": 40,
    "kind": "colours",
    "listed": "2026-10-27T00:41:55Z",
@@ -965,7 +965,7 @@
    "created": "2026-10-27T00:41:58Z",
    "description": "Aurora whose colours wander slowly, each stop on its own beat.",
    "download": "https://github.com/QueenRose4444/rosie-mandlebrot-presets/releases/download/entries/41.rmc",
-   "downloads": 0,
+   "downloads": 2,
    "id": 41,
    "kind": "colours",
    "listed": "2026-10-27T00:41:58Z",
@@ -1004,7 +1004,7 @@
    ]
   }
  ],
- "generated": "2026-10-27T00:42:30Z",
+ "generated": "2026-10-27T07:57:26Z",
  "repo": "QueenRose4444/rosie-mandlebrot-presets",
  "version": 1
 }
