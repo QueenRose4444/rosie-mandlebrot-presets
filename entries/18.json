@@ -1,0 +1,20 @@
+{
+ "asset": "18.rmp",
+ "author": "QueenRose4444",
+ "base": "julia_island",
+ "code": "rmp1.eyJuYW1lIjoianVsaWFfaXNsYW5kIiwicmUiOiItMS43Njg3Nzg4MTg4MjUwNTI0NDA3MDIwNDMyODkyMTkwNjU2ODM5OTg1NjI3MzQ4MTk2NTcwOTU4NzIwMDc1NTMwNDQzNTUyMTAwMTY4Mjc5NjQ5MTcwNDI4MzAyMDY2MjM2MjE2NzEyMjk4MTE3ODAzMzcwODI1OCIsImltIjoiLTAuMDAxNzM4OTkwNTk4MTM3OTAwMDY0NDQ1MzQ3NDI3MjIzMTMyMjQ3NDU1Mjg5NDI1NjQ1MTk5NTkwMjYzNzY2MDA5MjkyMTI0MjY2NzU2NDAyOTc3Nzk3Mzg5NTAxNjQxNjEyNDgyOTE5MDUyMzI2Mjg0OTUzNDUyNCIsImVuZCI6MS43ZS0xMSwicGVyaW9kIjoxMTMsImJhc2UiOiJqdWxpYV9pc2xhbmQifQ",
+ "created": "2026-10-27T00:40:50Z",
+ "depth": 1.7e-11,
+ "description": "A period-113 minibrot inside an embedded Julia set.",
+ "id": 18,
+ "interest": null,
+ "julia": false,
+ "kind": "place",
+ "listed": "2026-10-27T00:40:51Z",
+ "name": "julia_island",
+ "release": "entries",
+ "tags": [
+  "built-in",
+  "nucleus"
+ ]
+}

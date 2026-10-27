@@ -1,0 +1,20 @@
+{
+ "asset": "2.rmp",
+ "author": "QueenRose4444",
+ "base": "seahorse_deep",
+ "code": "rmp1.eyJuYW1lIjoic2VhaG9yc2VfZGVlcCIsInJlIjoiLTAuNzQzNjQzODg3MDM3MTU4NzA0NzUyMTkxNTA2MTE0Nzc0IiwiaW0iOiIwLjEzMTgyNTkwNDIwNTMxMTk3MDQ5MzEzMjA1NjM4NTEzOSIsImVuZCI6MWUtMzIsImJhc2UiOiJzZWFob3JzZV9kZWVwIn0",
+ "created": "2026-10-27T00:40:01Z",
+ "depth": 1e-32,
+ "description": "Deep Seahorse Valley, alongside a period-16014 minibrot that fills the frame near 1e-32.",
+ "id": 2,
+ "interest": null,
+ "julia": false,
+ "kind": "place",
+ "listed": "2026-10-27T00:40:02Z",
+ "name": "seahorse_deep",
+ "release": "entries",
+ "tags": [
+  "built-in",
+  "view"
+ ]
+}

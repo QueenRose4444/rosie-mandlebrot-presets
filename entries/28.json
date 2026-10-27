@@ -1,0 +1,20 @@
+{
+ "asset": "28.rmp",
+ "author": "QueenRose4444",
+ "base": "wake4_principal",
+ "code": "rmp1.eyJuYW1lIjoid2FrZTRfcHJpbmNpcGFsIiwicmUiOiIwLjM2NjM2Mjk4MzQyMjc2NDM0MTMyODkzMjczMDc5Nzg0OTA1ODA0OTg1Mzg1NzMwMjc5ODU4MTAyMDA0MjI5NDk1NTU3NzMzMjUxODQxMzQ2ODQxMjA0NzcwMzkyMDI5NDQ2Mzc1MTc3NTg2Mjk4NTU3MDM2NDQzMSIsImltIjoiMC41OTE1MzM3NzMyNjE0NDUyMjc1Nzc0OTM0OTM3MTY1NDE5ODExNTM1NDU3MjAzODI2NDExMjE0NjQzNDczNTA0MTg4MDM2MTk3NzgwMTIzNTY2NTI4ODE4MTEzMjAzMjM5NDQ1NDg4OTE1NDg3NTM4MTE4Njc2NzgiLCJlbmQiOjFlLTExOCwicGVyaW9kIjoxLCJiYXNlIjoid2FrZTRfcHJpbmNpcGFsIn0",
+ "created": "2026-10-27T00:41:20Z",
+ "depth": 1e-118,
+ "description": "The principal branch point of the 1/4 wake.",
+ "id": 28,
+ "interest": null,
+ "julia": false,
+ "kind": "place",
+ "listed": "2026-10-27T00:41:20Z",
+ "name": "wake4_principal",
+ "release": "entries",
+ "tags": [
+  "built-in",
+  "misiurewicz"
+ ]
+}

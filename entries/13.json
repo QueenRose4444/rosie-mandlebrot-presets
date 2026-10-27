@@ -1,0 +1,20 @@
+{
+ "asset": "13.rmp",
+ "author": "QueenRose4444",
+ "base": "bulb3_nucleus",
+ "code": "rmp1.eyJuYW1lIjoiYnVsYjNfbnVjbGV1cyIsInJlIjoiLTAuMTIyNTYxMTY2ODc2NjUzNjE5OTc1MjQ1NTUxODIwNzM1NjU0MDUyNjk2NjkxMTEzNjAzNDI4MDA1MzU4MDE0Njc2OTU5NjcyNDM1OTU5NDU0NjMwODg2NDUzNTc4ODc0ODQ4MTc1ODExMzE2MDQzNTkzMjg4NTMxIiwiaW0iOiIwLjc0NDg2MTc2NjYxOTc0NDIzNjU5MzE3MDQyODYwNDM5MjM2NzI0MDE2MzA4NDkwNjgyNDU3NDIwMTg0NzU5MjE1NDQxNTIxNzgzNzgzOTc2Nzc5MTE0Mzc1NDkzMjk2NDE1OTAzOTI1MjgwNDg3MzM3NzM2NjAzMyIsImVuZCI6MC4yLCJwZXJpb2QiOjMsImJhc2UiOiJidWxiM19udWNsZXVzIn0",
+ "created": "2026-10-27T00:40:35Z",
+ "depth": 0.2,
+ "description": "The centre of the period-3 bulb at the top of the set.",
+ "id": 13,
+ "interest": null,
+ "julia": false,
+ "kind": "place",
+ "listed": "2026-10-27T00:40:35Z",
+ "name": "bulb3_nucleus",
+ "release": "entries",
+ "tags": [
+  "built-in",
+  "nucleus"
+ ]
+}

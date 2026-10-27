@@ -1,0 +1,20 @@
+{
+ "asset": "7.rmp",
+ "author": "QueenRose4444",
+ "base": "feigenbaum_point",
+ "code": "rmp1.eyJuYW1lIjoiZmVpZ2VuYmF1bV9wb2ludCIsInJlIjoiLTEuNDAxMTU1MTg5MDkyMDUwNiIsImltIjoiMC4wIiwiZW5kIjo1ZS0xMiwiYmFzZSI6ImZlaWdlbmJhdW1fcG9pbnQifQ",
+ "created": "2026-10-27T00:40:17Z",
+ "depth": 5e-12,
+ "description": "The end of the period-doubling cascade: each zoom by 4.669 shows the next doubling. Needs many iterations.",
+ "id": 7,
+ "interest": null,
+ "julia": false,
+ "kind": "place",
+ "listed": "2026-10-27T00:40:17Z",
+ "name": "feigenbaum_point",
+ "release": "entries",
+ "tags": [
+  "built-in",
+  "landmark"
+ ]
+}

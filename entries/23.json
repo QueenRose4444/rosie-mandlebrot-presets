@@ -1,0 +1,20 @@
+{
+ "asset": "23.rmp",
+ "author": "QueenRose4444",
+ "base": "antenna_principal",
+ "code": "rmp1.eyJuYW1lIjoiYW50ZW5uYV9wcmluY2lwYWwiLCJyZSI6Ii0xLjU0MzY4OTAxMjY5MjA3NjM2MTU3MDg1NTk3MTgwMTc0Nzk4NjUyNTIwMzI5NzY1MDk4MzkzNTI0MDgwNDAzNzgzMTE2ODY3MzkyNzk3Mzg2NjQ4NTE1NzkxNDU3NjA1OTEyNTQ2MjEyMDgyOTIyNjM2NzA2MDE5IiwiaW0iOiIwLjAiLCJlbmQiOjFlLTExOCwicGVyaW9kIjoxLCJiYXNlIjoiYW50ZW5uYV9wcmluY2lwYWwifQ",
+ "created": "2026-10-27T00:41:06Z",
+ "depth": 1e-118,
+ "description": "The main branch point of the antenna.",
+ "id": 23,
+ "interest": null,
+ "julia": false,
+ "kind": "place",
+ "listed": "2026-10-27T00:41:06Z",
+ "name": "antenna_principal",
+ "release": "entries",
+ "tags": [
+  "built-in",
+  "misiurewicz"
+ ]
+}

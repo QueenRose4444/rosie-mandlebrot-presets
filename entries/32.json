@@ -1,0 +1,20 @@
+{
+ "asset": "32.rmp",
+ "author": "QueenRose4444",
+ "base": "seahorse_valley_cusp",
+ "code": "rmp1.eyJuYW1lIjoic2VhaG9yc2VfdmFsbGV5X2N1c3AiLCJyZSI6Ii0wLjc1MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMCIsImltIjoiMC4wIiwiZW5kIjowLjAwMDAxLCJiYXNlIjoic2VhaG9yc2VfdmFsbGV5X2N1c3AifQ",
+ "created": "2026-10-27T00:41:32Z",
+ "depth": 1e-05,
+ "description": "The root of the period-2 disc, where Seahorse Valley meets.",
+ "id": 32,
+ "interest": null,
+ "julia": false,
+ "kind": "place",
+ "listed": "2026-10-27T00:41:32Z",
+ "name": "seahorse_valley_cusp",
+ "release": "entries",
+ "tags": [
+  "built-in",
+  "landmark"
+ ]
+}

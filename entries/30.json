@@ -1,0 +1,20 @@
+{
+ "asset": "30.rmp",
+ "author": "QueenRose4444",
+ "base": "seahorse_spiral",
+ "code": "rmp1.eyJuYW1lIjoic2VhaG9yc2Vfc3BpcmFsIiwicmUiOiItMC43NzU2ODM3NjgwMDkwNTM3OTc0Njk0ODM1MDM5MzQ3NDEwNDU3MjgyNDY1MDQ2MTU4MDAzOTQ3OTQ5NTIwMDE0MDA2NjYwMTcyMjI4MTk1ODk4OTQ4ODMxNTkzNjg3ODIyNTUwMjgyNTIyOTY2ODkwNTA5NzI1MDkiLCJpbSI6IjAuMTM2NDY3MzY4Mjk0NjkwMTI0NzMzMjc0NDA5NjE3ODQ4NzY1MTk3NzcyMTExNTkyNDY3Njk2NDA3ODAwMTk1NDAwODM1NjY1OTc0ODE1NTAwODc1NDQ4NjExMjQ0MTc4NjU2NjI1NzA2ODIzMDU5NzU5ODM2MDEiLCJlbmQiOjFlLTExOCwicGVyaW9kIjoxLCJiYXNlIjoic2VhaG9yc2Vfc3BpcmFsIn0",
+ "created": "2026-10-27T00:41:26Z",
+ "depth": 1e-118,
+ "description": "The centre of the two-arm spiral in Seahorse Valley: about 29 turns per decade of zoom.",
+ "id": 30,
+ "interest": null,
+ "julia": false,
+ "kind": "place",
+ "listed": "2026-10-27T00:41:27Z",
+ "name": "seahorse_spiral",
+ "release": "entries",
+ "tags": [
+  "built-in",
+  "misiurewicz"
+ ]
+}

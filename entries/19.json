@@ -1,0 +1,20 @@
+{
+ "asset": "19.rmp",
+ "author": "QueenRose4444",
+ "base": "double_ejs_101",
+ "code": "rmp1.eyJuYW1lIjoiZG91YmxlX2Vqc18xMDEiLCJyZSI6Ii0xLjc2ODY2Nzg2Mjk4ODY3NTU0OTY1MzU5NTE3ODY2OTY3MzIyMjAyMjEzNjkxMDI5NDIyMDE3NzQ2ODczIiwiaW0iOiIwLjAwMTY0NTU4MDI3NTE0NjMyODcwNzg1ODczMzc4OTYwMTAxNzgyNzEwNTMzMjA2Mjk3ODU3MTkyOTUwNjI1IiwiZW5kIjoxLjFlLTksInBlcmlvZCI6MTAxLCJiYXNlIjoiZG91YmxlX2Vqc18xMDEifQ",
+ "created": "2026-10-27T00:40:53Z",
+ "depth": 1.1e-09,
+ "description": "A period-101 minibrot in a second-order embedded Julia set.",
+ "id": 19,
+ "interest": null,
+ "julia": false,
+ "kind": "place",
+ "listed": "2026-10-27T00:40:54Z",
+ "name": "double_ejs_101",
+ "release": "entries",
+ "tags": [
+  "built-in",
+  "nucleus"
+ ]
+}

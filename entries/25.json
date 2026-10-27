@@ -1,0 +1,20 @@
+{
+ "asset": "25.rmp",
+ "author": "QueenRose4444",
+ "base": "band_merge_m3",
+ "code": "rmp1.eyJuYW1lIjoiYmFuZF9tZXJnZV9tMyIsInJlIjoiLTEuNDA3NDA1MTE4MTY0NzAyMDIyNTA3ODI4MjI5MTk5MDUwOTc3NzgzODA1OTI2MDk0NTQ3OTM1MDkwODI5NjQ2MDI2OTU3MjA1NjUyMjIyNzY0NjI0NjMzNTQ0Mjk4MTc1MDg1NTk1ODM4NjcyNzg2MTAyODk1NTIiLCJpbSI6IjAuMCIsImVuZCI6MWUtMTE4LCJwZXJpb2QiOjQsImJhc2UiOiJiYW5kX21lcmdlX20zIn0",
+ "created": "2026-10-27T00:41:11Z",
+ "depth": 1e-118,
+ "description": "The third band-merging point on the antenna.",
+ "id": 25,
+ "interest": null,
+ "julia": false,
+ "kind": "place",
+ "listed": "2026-10-27T00:41:12Z",
+ "name": "band_merge_m3",
+ "release": "entries",
+ "tags": [
+  "built-in",
+  "misiurewicz"
+ ]
+}

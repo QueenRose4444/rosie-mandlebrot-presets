@@ -1,0 +1,20 @@
+{
+ "asset": "29.rmp",
+ "author": "QueenRose4444",
+ "base": "wake7_principal",
+ "code": "rmp1.eyJuYW1lIjoid2FrZTdfcHJpbmNpcGFsIiwicmUiOiIwLjM5NzM5MTgyMjI5NjU0MTE3NDk4NDI5NDM2ODY4ODU3OTkxNjk5MjQ3OTU0MTE0Mzk5NDI0Mjc4NjY5NDE4MDc2ODI5MDM2Njk5MTY0MDM1Mjk0NDk2OTIzNDU2ODk3NjYyNTg3NjMzMTY2ODAxODYzNDE4MDcxNiIsImltIjoiMC4xMzM1MTEyMDQ4NzE4Nzc2MzI2NTc2OTk1MTcwNzE3Njg5MTY2MTYxNDUzMzA4NDM3MzE1NjUyMDYzOTM3OTU3NzAzMTQ5MzQ2NjA1OTQxMTE1NTYzMjI1NzI4NzM0MTQwMTEzMDQwNDg2MzM5NTA1ODM4OTkzNDgiLCJlbmQiOjFlLTExOCwicGVyaW9kIjoxLCJiYXNlIjoid2FrZTdfcHJpbmNpcGFsIn0",
+ "created": "2026-10-27T00:41:23Z",
+ "depth": 1e-118,
+ "description": "The principal branch point of the 1/7 wake.",
+ "id": 29,
+ "interest": null,
+ "julia": false,
+ "kind": "place",
+ "listed": "2026-10-27T00:41:23Z",
+ "name": "wake7_principal",
+ "release": "entries",
+ "tags": [
+  "built-in",
+  "misiurewicz"
+ ]
+}

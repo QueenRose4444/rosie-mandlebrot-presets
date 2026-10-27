@@ -1,0 +1,19 @@
+{
+ "asset": "41.rmc",
+ "author": "QueenRose4444",
+ "code": "rmc1.eyJuYW1lIjoiQXVyb3JhIGRyaWZ0Iiwic3RvcHMiOltbMC4wLCIjMDAwMDAwIl0sWzAuMDQsIiMwMDJhMmEiXSxbMC4xLCIjMDA4MDVhIl0sWzAuMTgsIiMwMGUwOGEiXSxbMC4yOCwiIzAwZDhmZiJdLFswLjQyLCIjN2E1Y2ZmIl0sWzAuNjIsIiNmZjRmZDgiXSxbMS4wLCIjZmZmZmZmIl1dLCJwbGF5Ijp7InN0cmV0Y2giOjEuMCwib2Zmc2V0IjowLjAsIm1pcnJvciI6dHJ1ZSwiY3ljbGUiOjAuMCwiY3ljbGVfcGVyX3ZpZGVvIjpmYWxzZSwia2V5cyI6W10sImZhZGUiOjEuMCwicmFuZG9tIjp7Im1vZGUiOiJkcmlmdCIsInN0eWxlIjoidG9nZXRoZXIiLCJzZWVkIjoxNywiZXZlcnkiOjQuMCwicmFuZ2UiOlswLjAsMS4wXSwibG9jayI6W10sImRyaWZ0IjowLjE1fX19",
+ "created": "2026-10-27T00:41:58Z",
+ "description": "Aurora whose colours wander slowly, each stop on its own beat.",
+ "id": 41,
+ "kind": "colours",
+ "listed": "2026-10-27T00:41:58Z",
+ "name": "Aurora drift",
+ "play": true,
+ "release": "entries",
+ "stops": 8,
+ "tags": [
+  "colours",
+  "random",
+  "drift"
+ ]
+}

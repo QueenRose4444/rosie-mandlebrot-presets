@@ -1,0 +1,20 @@
+{
+ "asset": "20.rmp",
+ "author": "QueenRose4444",
+ "base": "period2_nucleus",
+ "code": "rmp1.eyJuYW1lIjoicGVyaW9kMl9udWNsZXVzIiwicmUiOiItMS4wMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJpbSI6IjAuMCIsImVuZCI6MC4yNSwicGVyaW9kIjoyLCJiYXNlIjoicGVyaW9kMl9udWNsZXVzIn0",
+ "created": "2026-10-27T00:40:56Z",
+ "depth": 0.25,
+ "description": "The centre of the period-2 disc.",
+ "id": 20,
+ "interest": null,
+ "julia": false,
+ "kind": "place",
+ "listed": "2026-10-27T00:40:57Z",
+ "name": "period2_nucleus",
+ "release": "entries",
+ "tags": [
+  "built-in",
+  "nucleus"
+ ]
+}

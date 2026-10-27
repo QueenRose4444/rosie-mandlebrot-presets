@@ -1,0 +1,20 @@
+{
+ "asset": "37.rmp",
+ "author": "QueenRose4444",
+ "base": "root_2_5",
+ "code": "rmp1.eyJuYW1lIjoicm9vdF8yXzUiLCJyZSI6Ii0wLjQ4MTc2Mjc0NTc4MTIxMDU2ODA3NjcyMDA2Mjg4NzExNDI5NDE0NTEiLCJpbSI6IjAuNTMxNjU2NzU1MjIwMDI0OTU3NjEzNDYyODEwNjY0MzgxOTIwMTUwMyIsImVuZCI6MC4wMDAwMSwiYmFzZSI6InJvb3RfMl81In0",
+ "created": "2026-10-27T00:41:46Z",
+ "depth": 1e-05,
+ "description": "The root of the 2/5 bulb.",
+ "id": 37,
+ "interest": null,
+ "julia": false,
+ "kind": "place",
+ "listed": "2026-10-27T00:41:47Z",
+ "name": "root_2_5",
+ "release": "entries",
+ "tags": [
+  "built-in",
+  "landmark"
+ ]
+}

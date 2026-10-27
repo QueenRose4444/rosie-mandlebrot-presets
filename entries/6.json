@@ -1,0 +1,20 @@
+{
+ "asset": "6.rmp",
+ "author": "QueenRose4444",
+ "base": "double_embedded_julia",
+ "code": "rmp1.eyJuYW1lIjoiZG91YmxlX2VtYmVkZGVkX2p1bGlhIiwicmUiOiItMS43Njg2Njc4NjI4Mzc0ODg4MTI2Mjc0MTk0NzAiLCJpbSI6IjAuMDAxNjQ1NTgwNTQ2ODIwMjA5NDMwMzI1OTAwIiwiZW5kIjoyZS0yMywiYmFzZSI6ImRvdWJsZV9lbWJlZGRlZF9qdWxpYSJ9",
+ "created": "2026-10-27T00:40:14Z",
+ "depth": 2e-23,
+ "description": "A second-order embedded Julia set framing a period-4246 island (Fractalshades example 10).",
+ "id": 6,
+ "interest": null,
+ "julia": false,
+ "kind": "place",
+ "listed": "2026-10-27T00:40:14Z",
+ "name": "double_embedded_julia",
+ "release": "entries",
+ "tags": [
+  "built-in",
+  "view"
+ ]
+}

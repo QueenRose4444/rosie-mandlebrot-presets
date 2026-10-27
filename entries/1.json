@@ -1,0 +1,20 @@
+{
+ "asset": "1.rmp",
+ "author": "QueenRose4444",
+ "base": "seahorse",
+ "code": "rmp1.eyJuYW1lIjoic2VhaG9yc2UiLCJyZSI6Ii0wLjc0MzY0Mzg4NzAzNzE1MSIsImltIjoiMC4xMzE4MjU5MDQyMDUzMzAiLCJlbmQiOjFlLTE1LCJiYXNlIjoic2VhaG9yc2UifQ",
+ "created": "2026-10-27T00:39:23Z",
+ "depth": 1e-15,
+ "description": "Seahorse Valley spirals; the default. A 15-digit centre, so it ends near 1e-15.",
+ "id": 1,
+ "interest": null,
+ "julia": false,
+ "kind": "place",
+ "listed": "2026-10-27T00:39:59Z",
+ "name": "seahorse",
+ "release": "entries",
+ "tags": [
+  "built-in",
+  "view"
+ ]
+}

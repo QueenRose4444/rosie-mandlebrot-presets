@@ -1,0 +1,20 @@
+{
+ "asset": "35.rmp",
+ "author": "QueenRose4444",
+ "base": "quad_spiral_valley",
+ "code": "rmp1.eyJuYW1lIjoicXVhZF9zcGlyYWxfdmFsbGV5IiwicmUiOiIwLjI1MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMCIsImltIjoiMC41MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJlbmQiOjAuMDAwMDEsImJhc2UiOiJxdWFkX3NwaXJhbF92YWxsZXkifQ",
+ "created": "2026-10-27T00:41:41Z",
+ "depth": 1e-05,
+ "description": "The root of the period-4 bulb.",
+ "id": 35,
+ "interest": null,
+ "julia": false,
+ "kind": "place",
+ "listed": "2026-10-27T00:41:41Z",
+ "name": "quad_spiral_valley",
+ "release": "entries",
+ "tags": [
+  "built-in",
+  "landmark"
+ ]
+}

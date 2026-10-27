@@ -1,0 +1,20 @@
+{
+ "asset": "34.rmp",
+ "author": "QueenRose4444",
+ "base": "triple_spiral_valley",
+ "code": "rmp1.eyJuYW1lIjoidHJpcGxlX3NwaXJhbF92YWxsZXkiLCJyZSI6Ii0wLjEyNTAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMCIsImltIjoiMC42NDk1MTkwNTI4MzgzMjg5ODUwNzI3OTIzNzgwNjQ3MDIxMzc2MDM2IiwiZW5kIjowLjAwMDAxLCJiYXNlIjoidHJpcGxlX3NwaXJhbF92YWxsZXkifQ",
+ "created": "2026-10-27T00:41:38Z",
+ "depth": 1e-05,
+ "description": "The root of the period-3 bulb.",
+ "id": 34,
+ "interest": null,
+ "julia": false,
+ "kind": "place",
+ "listed": "2026-10-27T00:41:38Z",
+ "name": "triple_spiral_valley",
+ "release": "entries",
+ "tags": [
+  "built-in",
+  "landmark"
+ ]
+}

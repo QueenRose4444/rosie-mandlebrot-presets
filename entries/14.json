@@ -1,0 +1,20 @@
+{
+ "asset": "14.rmp",
+ "author": "QueenRose4444",
+ "base": "bulb4_nucleus",
+ "code": "rmp1.eyJuYW1lIjoiYnVsYjRfbnVjbGV1cyIsInJlIjoiMC4yODIyNzEzOTA3NjY5MTM4Nzk2OTY4MTc1MzkzMjE1MTE3OTE1ODU1OTI2Njk0MDIzNDcxNzg0OTk0NzY2OTA4Mjc4MTI3NTYwMTA0Mjk2MTc1Njk5MzIxMDQ1MTQ1NTE4NTUzNzA2NTMzMjk4NjY3Mjg0MDQxNjMiLCJpbSI6IjAuNTMwMDYwNjE3NTc4NTI1Mjk5NDg3ODY5MDQ3NTIwMjAxOTM3ODQzMDIxOTMyNjY0OTMzNjg1OTcwNjMyNTMzNDE4NTE4NjQwNzQzMjE3MTMzODIyMDUzNzAyMzkwMDQ5MjY2OTAxNTEyMjc1NTM5MjQ5NDIyMzg1IiwiZW5kIjowLjA5LCJwZXJpb2QiOjQsImJhc2UiOiJidWxiNF9udWNsZXVzIn0",
+ "created": "2026-10-27T00:40:38Z",
+ "depth": 0.09,
+ "description": "The centre of the period-4 bulb.",
+ "id": 14,
+ "interest": null,
+ "julia": false,
+ "kind": "place",
+ "listed": "2026-10-27T00:40:38Z",
+ "name": "bulb4_nucleus",
+ "release": "entries",
+ "tags": [
+  "built-in",
+  "nucleus"
+ ]
+}

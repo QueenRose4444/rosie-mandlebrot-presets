@@ -1,0 +1,20 @@
+{
+ "asset": "21.rmp",
+ "author": "QueenRose4444",
+ "base": "tip_of_antenna",
+ "code": "rmp1.eyJuYW1lIjoidGlwX29mX2FudGVubmEiLCJyZSI6Ii0yLjAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMCIsImltIjoiMC4wIiwiZW5kIjoxZS0yOSwicGVyaW9kIjoxLCJiYXNlIjoidGlwX29mX2FudGVubmEifQ",
+ "created": "2026-10-27T00:40:59Z",
+ "depth": 1e-29,
+ "description": "c = -2, the westmost point of the set. The same two lines forever.",
+ "id": 21,
+ "interest": null,
+ "julia": false,
+ "kind": "place",
+ "listed": "2026-10-27T00:41:00Z",
+ "name": "tip_of_antenna",
+ "release": "entries",
+ "tags": [
+  "built-in",
+  "misiurewicz"
+ ]
+}

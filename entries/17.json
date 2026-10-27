@@ -1,0 +1,20 @@
+{
+ "asset": "17.rmp",
+ "author": "QueenRose4444",
+ "base": "seahorse_island1312",
+ "code": "rmp1.eyJuYW1lIjoic2VhaG9yc2VfaXNsYW5kMTMxMiIsInJlIjoiLTAuNzQ0NTM5ODYwMzU1OTA4MzgwODE2NTU3ODE1ODk1MzQ3MzAyOTcyMTkxNjg5MTQwOTMxNTc1Njc2NzA2MTg5NjIxOTg0MDcwNzUzNzAyMDczMzUzMzI2MDU4ODc3OTMxMTY2Njk0NDY0NTQwODE4MzE3NjI3NzExIiwiaW0iOiIwLjEyMTcyMzc3Mzg5NDQyNDgyNDIxNDU2ODY0OTg3NzkyMDA5MjgxODUyMzQ3NTk4MjIwMjAzMjQyMDQzMzI4NjY4NTcyNzcyODE0NjgwNTQ0NzgxMTQ1NzA5NjUyNDc0NzIyNDQ5Mjg3OTQyMDU2NDEwOTY1Nzk2MyIsImVuZCI6My41ZS0xOCwicGVyaW9kIjoxMzEyLCJiYXNlIjoic2VhaG9yc2VfaXNsYW5kMTMxMiJ9",
+ "created": "2026-10-27T00:40:47Z",
+ "depth": 3.5e-18,
+ "description": "A period-1312 minibrot deep in Seahorse Valley (Munafo's deep seahorse).",
+ "id": 17,
+ "interest": null,
+ "julia": false,
+ "kind": "place",
+ "listed": "2026-10-27T00:40:47Z",
+ "name": "seahorse_island1312",
+ "release": "entries",
+ "tags": [
+  "built-in",
+  "nucleus"
+ ]
+}

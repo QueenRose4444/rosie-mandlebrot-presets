@@ -1,0 +1,20 @@
+{
+ "asset": "39.rmp",
+ "author": "QueenRose4444",
+ "base": "root_1_100",
+ "code": "rmp1.eyJuYW1lIjoicm9vdF8xXzEwMCIsInJlIjoiMC4yNTA5ODQ2ODg4ODU1MTYzMjMyMTM3MjAxNDI3MzUyODA2NDYzMDUyIiwiaW0iOiIwLjAwMDA2MTk1MTM3MzU4MDYyNjY5NDgwOTQyMjMyODY4ODM2ODA3NTUxMjg1IiwiZW5kIjowLjAwMDAxLCJiYXNlIjoicm9vdF8xXzEwMCJ9",
+ "created": "2026-10-27T00:41:52Z",
+ "depth": 1e-05,
+ "description": "The root of the 1/100 bulb, deep in Elephant Valley.",
+ "id": 39,
+ "interest": null,
+ "julia": false,
+ "kind": "place",
+ "listed": "2026-10-27T00:41:53Z",
+ "name": "root_1_100",
+ "release": "entries",
+ "tags": [
+  "built-in",
+  "landmark"
+ ]
+}

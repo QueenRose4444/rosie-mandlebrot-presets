@@ -1,0 +1,20 @@
+{
+ "asset": "9.rmp",
+ "author": "QueenRose4444",
+ "base": "island_period3",
+ "code": "rmp1.eyJuYW1lIjoiaXNsYW5kX3BlcmlvZDMiLCJyZSI6Ii0xLjc1NDg3NzY2NjI0NjY5Mjc2MDA0OTUwODg5NjM1ODUyODY5MTg5NDYwNjYxNzc3Mjc5MzE0Mzk4OTI4Mzk3MDY0NjA4MDY1NTEyODA4MTA5MDczODIyNzA5Mjg0MjI1MDMwMzY0ODM3NzM2NzkxMjgxMzQyMjk0IiwiaW0iOiIwLjAiLCJlbmQiOjAuMDIsInBlcmlvZCI6MywiYmFzZSI6ImlzbGFuZF9wZXJpb2QzIn0",
+ "created": "2026-10-27T00:40:23Z",
+ "depth": 0.02,
+ "description": "The largest minibrot on the main antenna.",
+ "id": 9,
+ "interest": null,
+ "julia": false,
+ "kind": "place",
+ "listed": "2026-10-27T00:40:23Z",
+ "name": "island_period3",
+ "release": "entries",
+ "tags": [
+  "built-in",
+  "nucleus"
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "asset": "4.rmp",
+ "author": "QueenRose4444",
+ "base": "spiral",
+ "code": "rmp1.eyJuYW1lIjoic3BpcmFsIiwicmUiOiItMC43NjE1NzQiLCJpbSI6Ii0wLjA4NDc1OTYiLCJlbmQiOjFlLTYsImJhc2UiOiJzcGlyYWwifQ",
+ "created": "2026-10-27T00:40:08Z",
+ "depth": 1e-06,
+ "description": "A spiral beside a period-106 minibrot. Shallow.",
+ "id": 4,
+ "interest": null,
+ "julia": false,
+ "kind": "place",
+ "listed": "2026-10-27T00:40:08Z",
+ "name": "spiral",
+ "release": "entries",
+ "tags": [
+  "built-in",
+  "view"
+ ]
+}

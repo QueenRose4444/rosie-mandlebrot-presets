@@ -1,0 +1,20 @@
+{
+ "asset": "31.rmp",
+ "author": "QueenRose4444",
+ "base": "misiurewicz_deep",
+ "code": "rmp1.eyJuYW1lIjoibWlzaXVyZXdpY3pfZGVlcCIsInJlIjoiLTAuMjA3MTA3ODY3MDkzOTY3NzMyODkzOTkxMzI2MjU1NzgwMTE2MDY0MzY4MjE5MTk3NTM3ODQxODkwOTk0NTY3NTA2NjY1MjEwNzQ4MjUxMDIyNTUxOTE3MjYzNTUwODQyMTQ1ODkxNzg3ODQxMTE1NjcyNTE1MzMyODE4MjAxNTM2NzU0NzY4NzY4NDE1NjA1MDkyMzg4NzY0NTUyNjkzNiIsImltIjoiMS4xMjI3NTcwNjM2MzI1OTc0ODQ2MTYwMjQ5MzExMDkyNDA3MTU3Mjg0ODAxNzg0OTc1MzY4MTQwNzY1NjE3MDQ1NjYyMjkwMjI1NTYyOTg5MjA5NjEzNTQxNjM0NDkxNjM3NjYwNzU5NzAyNTU4Mzc5MzE1OTM2MDE4MTExOTg5NzY3NDQ5MzQxMzQxNzMwNTkyNTQzMDk2NjA1NjUzNzIiLCJlbmQiOjFlLTE1OCwicGVyaW9kIjo5LCJiYXNlIjoibWlzaXVyZXdpY3pfZGVlcCJ9",
+ "created": "2026-10-27T00:41:29Z",
+ "depth": 1e-158,
+ "description": "Repeats itself every 4.2 decades of zoom, as deep as its 160 digits allow.",
+ "id": 31,
+ "interest": null,
+ "julia": false,
+ "kind": "place",
+ "listed": "2026-10-27T00:41:29Z",
+ "name": "misiurewicz_deep",
+ "release": "entries",
+ "tags": [
+  "built-in",
+  "misiurewicz"
+ ]
+}

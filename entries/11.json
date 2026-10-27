@@ -1,0 +1,20 @@
+{
+ "asset": "11.rmp",
+ "author": "QueenRose4444",
+ "base": "island_period5a",
+ "code": "rmp1.eyJuYW1lIjoiaXNsYW5kX3BlcmlvZDVhIiwicmUiOiItMS42MjU0MTM3MjUxMjMzMDM3Mzc0NDM0MTA1NzUwMjMzMzAxODM4MDIyNTU5MzgwOTEwNTI0MTA2MzQwMDY3MzgxNzgzODY0NTczMTYwMjYxMTk4NTgwMTg3Njc4NzkxMzk3OTExMDQ3NjkwNTQyODY1NTEwOTg3NyIsImltIjoiMC4wIiwiZW5kIjowLjAwNCwicGVyaW9kIjo1LCJiYXNlIjoiaXNsYW5kX3BlcmlvZDVhIn0",
+ "created": "2026-10-27T00:40:28Z",
+ "depth": 0.004,
+ "description": "A period-5 minibrot on the real axis.",
+ "id": 11,
+ "interest": null,
+ "julia": false,
+ "kind": "place",
+ "listed": "2026-10-27T00:40:29Z",
+ "name": "island_period5a",
+ "release": "entries",
+ "tags": [
+  "built-in",
+  "nucleus"
+ ]
+}

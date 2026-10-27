@@ -1,0 +1,20 @@
+{
+ "asset": "26.rmp",
+ "author": "QueenRose4444",
+ "base": "limb3_tip",
+ "code": "rmp1.eyJuYW1lIjoibGltYjNfdGlwIiwicmUiOiItMC4yMjgxNTU0OTM2NTM5NjE4MTkyMTQ1NzIwMTQwOTkxMjYwMDY3MzczOTgzNTExNzQ1MDgwMzIzNzk1OTc5ODEwODQ0MTU2NjMwMzYwMTMwNjY3NTc0MjEwNDI3MTE5NzA0MzcyNjg5Mzk1ODUzODY4MTY0Njk5MDUiLCJpbSI6IjEuMTE1MTQyNTA4MDM5OTM3MzU5NzQ1NzY0NjM2MzE1MDE0MDY4MTg4Nzc4MDkwNDY3OTU0NjAzNjI3NDY4MDMzNDgxMDQwOTA5Mjk0NjM1NTE2ODU3MjU3MjAwNjg3NDc2NTIyODg3MjEwMDMyMjQ1MTAzMzMyNDciLCJlbmQiOjFlLTExOCwicGVyaW9kIjoxLCJiYXNlIjoibGltYjNfdGlwIn0",
+ "created": "2026-10-27T00:41:14Z",
+ "depth": 1e-118,
+ "description": "The tip of a main branch of the 1/3 limb.",
+ "id": 26,
+ "interest": null,
+ "julia": false,
+ "kind": "place",
+ "listed": "2026-10-27T00:41:15Z",
+ "name": "limb3_tip",
+ "release": "entries",
+ "tags": [
+  "built-in",
+  "misiurewicz"
+ ]
+}

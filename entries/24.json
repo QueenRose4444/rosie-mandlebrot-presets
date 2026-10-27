@@ -1,0 +1,20 @@
+{
+ "asset": "24.rmp",
+ "author": "QueenRose4444",
+ "base": "band_merge_m2",
+ "code": "rmp1.eyJuYW1lIjoiYmFuZF9tZXJnZV9tMiIsInJlIjoiLTEuNDMwMzU3NjMyNDUxMzA3Mzk4OTc0OTMwMDcyMzkwMjUwMzkwMzQyMTU1NjE0NzIzODA4Mjg5MTI0NTA2MzQ2ODI2NzE1NDgzOTIwMTkzODE5MzEwNDIyNDU2ODM4NzIyNDQzOTkwMDE1NDM2MjcxOTAzMzUzNzEiLCJpbSI6IjAuMCIsImVuZCI6MWUtMTE4LCJwZXJpb2QiOjIsImJhc2UiOiJiYW5kX21lcmdlX20yIn0",
+ "created": "2026-10-27T00:41:08Z",
+ "depth": 1e-118,
+ "description": "The second band-merging point on the antenna.",
+ "id": 24,
+ "interest": null,
+ "julia": false,
+ "kind": "place",
+ "listed": "2026-10-27T00:41:09Z",
+ "name": "band_merge_m2",
+ "release": "entries",
+ "tags": [
+  "built-in",
+  "misiurewicz"
+ ]
+}

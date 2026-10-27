@@ -1,0 +1,20 @@
+{
+ "asset": "15.rmp",
+ "author": "QueenRose4444",
+ "base": "seahorse_island29",
+ "code": "rmp1.eyJuYW1lIjoic2VhaG9yc2VfaXNsYW5kMjkiLCJyZSI6Ii0wLjc0NTA5ODc1ODUyNDk2NzgzNDM2OTc3MTQ2NTI0OTA5Mjg2OTU5MDU4MzI4NjQ1MDA2Nzk2MDAzMzA2MDQ5NDQxMTIwOTgwNDYxOTExOTY5MjE3ODk3Mjk3ODkwMzg0NzY3MjI0OTk5MzkzNTI1MjUzMDQ5OTExMSIsImltIjoiMC4xMTgyNTI1MTU5NzU1NTUwNzQ1NTUxNjg2MjI4OTU3MTczMTM4Njg2MzA1OTAzNjI1Nzc3MzE4NTQ5OTQwMzk5NTk3MzYzNTE3NTk4MDMxNzE0NjMzMTExMjU5MDUyNTkwODUwMDEyOTQ2NzQ2ODkxNjIyNDAxMDgiLCJlbmQiOjAuMDAwMiwicGVyaW9kIjoyOSwiYmFzZSI6InNlYWhvcnNlX2lzbGFuZDI5In0",
+ "created": "2026-10-27T00:40:41Z",
+ "depth": 0.0002,
+ "description": "A period-29 minibrot in Seahorse Valley.",
+ "id": 15,
+ "interest": null,
+ "julia": false,
+ "kind": "place",
+ "listed": "2026-10-27T00:40:42Z",
+ "name": "seahorse_island29",
+ "release": "entries",
+ "tags": [
+  "built-in",
+  "nucleus"
+ ]
+}

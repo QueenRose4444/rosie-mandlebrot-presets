@@ -1,0 +1,20 @@
+{
+ "asset": "8.rmp",
+ "author": "QueenRose4444",
+ "base": "seahorse_ultra",
+ "code": "rmp1.eyJuYW1lIjoic2VhaG9yc2VfdWx0cmEiLCJyZSI6Ii0wLjc0MTc5NzQ4MzcwNjIwMDMxMzY4NTQ3ODI3MzI1MDMwMjA2ODY0NDk0MTgyNDkxMzA4MDM1MTE2NzUzNjA2NjYxMzkzNTQ1OTE0NTg3MjY3MDE5NzcyNTQ1MzU0ODg3OTYxOTQxNDc2NjcxNjA2Nzc3ODY4OTkyMTQ4MzE0NDE3NDc2NzI2Nzk0MzY3IiwiaW0iOiIwLjExMDM5NDI4NDgzNDIxMDc2MTcwNzEzNzE2MzUyMzU3NDI2NjYxMDQyNjk3ODM0OTk3MDYzNDE5Mjk4MDIyMTc2MTg1ODEzMzE3OTkyNTY0NzM5Mjg4NTE1MDUwNzU1NzYyNTkwNDQ2NTk4NjI5MzAxNTYyMTE0MDM3MTAxMTY5MTgzMDAyMjQ2ODA5IiwiZW5kIjoxZS0zMiwicGVyaW9kIjoxMzQ0LCJiYXNlIjoic2VhaG9yc2VfdWx0cmEifQ",
+ "created": "2026-10-27T00:40:20Z",
+ "depth": 1e-32,
+ "description": "The centre of a period-1344 minibrot in Seahorse Valley, reached through seahorse spirals.",
+ "id": 8,
+ "interest": null,
+ "julia": false,
+ "kind": "place",
+ "listed": "2026-10-27T00:40:20Z",
+ "name": "seahorse_ultra",
+ "release": "entries",
+ "tags": [
+  "built-in",
+  "nucleus"
+ ]
+}
