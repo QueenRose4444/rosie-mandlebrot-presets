@@ -14,7 +14,7 @@ jobs:
   index:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v7
       - name: Rebuild and sign the index
         env:
           GH_TOKEN: ${{ github.token }}
