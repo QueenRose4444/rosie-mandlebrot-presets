@@ -1,0 +1,5 @@
+* text=auto eol=lf
+index.json -text
+index.json.minisig -text
+*.rmp -text
+*.rmc -text
